@@ -6,7 +6,7 @@
 - :trophy: 1x `ECPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`
 - 🤓 Always learning new things
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1SChYH2NPB5y-OKr22j_vSxnirAf7HWlN/view?usp=sharing).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1W1jig3XlRJ5Epi3-f7wsahFibpn1VLuE/view?usp=sharing).
 <br>
 
 
