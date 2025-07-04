@@ -2,7 +2,7 @@
 
 <br><br>
 
-- :school:I'm student at faculty of computers and artificial intelligence 
+- :school:Fresh Graduated at faculty of computers and artificial intelligence 
 - :trophy: 1x `ECPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`
 - 🤓 Always learning new things
